@@ -1,0 +1,124 @@
+.main{
+    display:flex;
+    }
+    
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    background-color: #f5f5f5;
+}
+
+header {
+    width: 100%;
+    background-color: #24292e;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header .github {
+    margin: 0;
+}
+
+.rectangle {
+    width: 80px;
+    height: 120px;
+    background-color: #0c0d0e;
+    margin: 20px 0;
+    text-align: left;
+    position:absoluteleft; 
+    display: flex;
+    flex-direction:left;
+    align-items:left;
+}
+
+.square {
+    width: 200px;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    background-color: #020202;
+    margin: 10px;
+    display:flex;
+    flex-direction:row;
+    align-items:vertical left;
+}
+
+
+.square {
+    width: 150px;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    background-color: #020202;
+    margin: 10px;
+}
+ {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Body styling */
+   body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: leftr;
+    height: 100vh;
+    background-color: #f0f0f0;
+} */
+
+/* Header styling */
+ header {
+    width: 100%;
+    height: 100px;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+.github {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.github h2 {
+    margin: 0;
+}
+/* Button styling */
+button {
+    padding: 10px 10px;
+    background-color: #1d1e20;
+    color: white;
+    width: 600px;
+    border-top-right-radius: 90px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 15px;
+    display: flex;
+    justify-content: left;
+    align-items: leftr;
+}
+button:hover {
+    background-color: #d1e20;
+ } 
+
+ .sidebar{
+    width: 500px;
+    height: 200px;
+    background-color: #0c0d0e;
+    margin: 200px 10px 10px 10px;
+    text-align:;
+    position:absolute; 
+    display: flex;
+    flex-direction:column;
+    align-items:middle;
+ }
+
+
